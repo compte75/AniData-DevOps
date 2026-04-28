@@ -42,4 +42,4 @@ L'image est publiée sur `ghcr.io/compte75/anidata-airflow`.
 
 **etl_dag** — lit le JSON produit par le scraper et indexe les documents dans Elasticsearch (index `anidex_animes`).
 
-## Structure du projet
+## Structure du projetPipeline complète opérationnelle.
