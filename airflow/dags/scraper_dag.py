@@ -22,7 +22,7 @@ def run_scraper(**context):
 
 with DAG(
     dag_id="scraper_dag",
-    schedule="@daily",
+    schedule="@onces",
     start_date=datetime(2026, 4, 27),
     catchup=False,
     tags=["scraping", "anidata"],
@@ -40,3 +40,4 @@ with DAG(
     )
 
     scrape_task >> trigger_etl
+#ok 
