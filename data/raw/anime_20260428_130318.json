@@ -1,0 +1,1954 @@
+{
+  "scraped_at": "2026-04-28T13:03:18.014227+00:00",
+  "source": "http://mock-site",
+  "stats": {
+    "animes_count": 103,
+    "news_count": 8,
+    "missing_scores": 4,
+    "missing_studios": 3
+  },
+  "animes": [
+    {
+      "id": 1,
+      "title_en": "Attack on Titan",
+      "title_jp": "進撃の巨人",
+      "detail_url": "/anime/attack-on-titan.html",
+      "year": 2013,
+      "studio": "Wit Studio",
+      "score": 9.0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Dans un monde où l'humanité vit derrière d'immenses murs, Eren Yeager voit son village détruit par des Titans. Il rejoint alors le Bataillon d'Exploration pour se venger."
+    },
+    {
+      "id": 2,
+      "title_en": "Death Note",
+      "title_jp": "デスノート",
+      "detail_url": "/anime/death-note.html",
+      "year": 2006,
+      "studio": "Madhouse",
+      "score": 8.6,
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "type": "TV",
+      "episodes": 37,
+      "status": "Finished Airing",
+      "synopsis": "Light Yagami découvre un carnet qui permet de tuer quiconque dont le nom y est inscrit. Il décide de l'utiliser pour créer un monde parfait."
+    },
+    {
+      "id": 3,
+      "title_en": "Fullmetal Alchemist: Brotherhood",
+      "title_jp": "鋼の錬金術師",
+      "detail_url": "/anime/fullmetal-alchemist-brotherhood.html",
+      "year": 2009,
+      "studio": "Bones",
+      "score": 9.1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 64,
+      "status": "Finished Airing",
+      "synopsis": "Edward et Alphonse Elric cherchent la Pierre Philosophale pour retrouver leurs corps, perdus lors d'une transmutation humaine interdite."
+    },
+    {
+      "id": 4,
+      "title_en": "One Piece",
+      "title_jp": "ワンピース",
+      "detail_url": "/anime/one-piece.html",
+      "year": 1999,
+      "studio": "Toei Animation",
+      "score": 8.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "type": "TV",
+      "episodes": null,
+      "status": "Currently Airing",
+      "synopsis": "Monkey D. Luffy, un jeune pirate au corps en caoutchouc, parcourt les mers avec son équipage à la recherche du One Piece, le trésor ultime."
+    },
+    {
+      "id": 5,
+      "title_en": "Naruto",
+      "title_jp": "ナルト",
+      "detail_url": "/anime/naruto.html",
+      "year": 2002,
+      "studio": "Studio Pierrot",
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Shounen"
+      ],
+      "type": "TV",
+      "episodes": 220,
+      "status": "Finished Airing",
+      "synopsis": "Naruto Uzumaki, un jeune ninja hyperactif, rêve de devenir Hokage, le chef de son village de Konoha."
+    },
+    {
+      "id": 6,
+      "title_en": "Naruto: Shippuden",
+      "title_jp": "ナルト 疾風伝",
+      "detail_url": "/anime/naruto-shippuden.html",
+      "year": 2007,
+      "studio": "Studio Pierrot",
+      "score": 8.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Shounen"
+      ],
+      "type": "TV",
+      "episodes": 500,
+      "status": "Finished Airing",
+      "synopsis": "Naruto revient à Konoha après deux ans d'entraînement pour affronter l'Akatsuki et sauver Sasuke."
+    },
+    {
+      "id": 7,
+      "title_en": "Cowboy Bebop",
+      "title_jp": "カウボーイビバップ",
+      "detail_url": "/anime/cowboy-bebop.html",
+      "year": 1998,
+      "studio": "Sunrise",
+      "score": 8.8,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Space"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "En 2071, un équipage de chasseurs de primes traverse le système solaire à bord du Bebop, chacun fuyant son propre passé."
+    },
+    {
+      "id": 8,
+      "title_en": "Demon Slayer",
+      "title_jp": "鬼滅の刃",
+      "detail_url": "/anime/demon-slayer.html",
+      "year": 2019,
+      "studio": "Ufotable",
+      "score": null,
+      "genres": [
+        "Action",
+        "Historical",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "Après le massacre de sa famille par un démon, Tanjiro Kamado devient pourfendeur pour sauver sa sœur transformée en démon."
+    },
+    {
+      "id": 9,
+      "title_en": "My Hero Academia",
+      "title_jp": "僕のヒーローアカデミア",
+      "detail_url": "/anime/my-hero-academia.html",
+      "year": 2016,
+      "studio": "Bones",
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "School",
+        "Super Power"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Dans un monde où 80% de la population a un pouvoir, Izuku Midoriya, né sans alter, rêve de devenir le plus grand héros."
+    },
+    {
+      "id": 10,
+      "title_en": "Jujutsu Kaisen",
+      "title_jp": "呪術廻戦",
+      "detail_url": "/anime/jujutsu-kaisen.html",
+      "year": 2020,
+      "studio": "MAPPA",
+      "score": 8.6,
+      "genres": [
+        "Action",
+        "School",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Yuji Itadori avale un doigt maudit et devient l'hôte de Ryomen Sukuna, un fléau légendaire."
+    },
+    {
+      "id": 11,
+      "title_en": "Spirited Away",
+      "title_jp": "千と千尋の神隠し",
+      "detail_url": "/anime/spirited-away.html",
+      "year": 2001,
+      "studio": "Studio Ghibli",
+      "score": 8.8,
+      "genres": [
+        "Adventure",
+        "Supernatural",
+        "Drama"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Chihiro se retrouve piégée dans un monde magique peuplé d'esprits après que ses parents ont été transformés en cochons."
+    },
+    {
+      "id": 12,
+      "title_en": "Your Name",
+      "title_jp": "君の名は",
+      "detail_url": "/anime/your-name.html",
+      "year": 2016,
+      "studio": "CoMix Wave Films",
+      "score": 8.9,
+      "genres": [
+        "Romance",
+        "Supernatural",
+        "Drama"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Deux adolescents, un garçon de Tokyo et une fille vivant à la campagne, échangent mystérieusement leurs corps dans leurs rêves."
+    },
+    {
+      "id": 13,
+      "title_en": "Princess Mononoke",
+      "title_jp": "もののけ姫",
+      "detail_url": "/anime/princess-mononoke.html",
+      "year": 1997,
+      "studio": "Studio Ghibli",
+      "score": 8.7,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Historical"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Ashitaka part en quête d'un remède à sa malédiction et se retrouve au cœur d'un conflit entre humains et esprits de la forêt."
+    },
+    {
+      "id": 14,
+      "title_en": "Steins;Gate",
+      "title_jp": "シュタインズ・ゲート",
+      "detail_url": "/anime/steinsgate.html",
+      "year": 2011,
+      "studio": "White Fox",
+      "score": 9.1,
+      "genres": [
+        "Sci-Fi",
+        "Thriller",
+        "Drama"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Un groupe d'étudiants découvre accidentellement comment envoyer des messages dans le passé et se retrouve traqué par une mystérieuse organisation."
+    },
+    {
+      "id": 15,
+      "title_en": "Code Geass",
+      "title_jp": "コードギアス 反逆のルルーシュ",
+      "detail_url": "/anime/code-geass.html",
+      "year": 2006,
+      "studio": "Sunrise",
+      "score": 8.7,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Lelouch obtient un pouvoir qui lui permet de commander à quiconque d'obéir à ses ordres, et décide de détruire l'Empire de Britannia."
+    },
+    {
+      "id": 16,
+      "title_en": "Neon Genesis Evangelion",
+      "title_jp": "新世紀エヴァンゲリオン",
+      "detail_url": "/anime/neon-genesis-evangelion.html",
+      "year": 1995,
+      "studio": null,
+      "score": 8.4,
+      "genres": [
+        "Mecha",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "Shinji Ikari est recruté par son père pour piloter un Evangelion et défendre Tokyo-3 contre de mystérieuses créatures appelées Anges."
+    },
+    {
+      "id": 17,
+      "title_en": "Hunter x Hunter (2011)",
+      "title_jp": "ハンター×ハンター",
+      "detail_url": "/anime/hunter-x-hunter-2011.html",
+      "year": 2011,
+      "studio": "Madhouse",
+      "score": 9.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shounen"
+      ],
+      "type": "TV",
+      "episodes": 148,
+      "status": "Finished Airing",
+      "synopsis": "Gon Freecss devient chasseur pour retrouver son père, un légendaire Hunter qui l'a abandonné à la naissance."
+    },
+    {
+      "id": 18,
+      "title_en": "Vinland Saga",
+      "title_jp": "ヴィンランド・サガ",
+      "detail_url": "/anime/vinland-saga.html",
+      "year": 2019,
+      "studio": "Wit Studio",
+      "score": 8.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Historical"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Thorfinn, un jeune viking, cherche à venger la mort de son père dans une Europe médiévale déchirée par les guerres."
+    },
+    {
+      "id": 19,
+      "title_en": "Mob Psycho 100",
+      "title_jp": "モブサイコ100",
+      "detail_url": "/anime/mob-psycho-100.html",
+      "year": 2016,
+      "studio": "Bones",
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Shigeo Kageyama, dit Mob, est un collégien doté de pouvoirs psychiques immenses qu'il tente de garder sous contrôle."
+    },
+    {
+      "id": 20,
+      "title_en": "One Punch Man",
+      "title_jp": "ワンパンマン",
+      "detail_url": "/anime/one-punch-man.html",
+      "year": 2015,
+      "studio": "Madhouse",
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Super Power"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Saitama est un héros tellement puissant qu'il bat tous ses adversaires d'un seul coup de poing, ce qui le déprime profondément."
+    },
+    {
+      "id": 21,
+      "title_en": "Bleach",
+      "title_jp": "ブリーチ",
+      "detail_url": "/anime/bleach.html",
+      "year": 2004,
+      "studio": "Studio Pierrot",
+      "score": 8.1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Shounen",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 366,
+      "status": "Finished Airing",
+      "synopsis": "Ichigo Kurosaki devient Shinigami après avoir rencontré Rukia et protège les humains contre les Hollows."
+    },
+    {
+      "id": 22,
+      "title_en": "Dragon Ball Z",
+      "title_jp": "ドラゴンボールZ",
+      "detail_url": "/anime/dragon-ball-z.html",
+      "year": 1989,
+      "studio": "Toei Animation",
+      "score": 8.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Martial Arts"
+      ],
+      "type": "TV",
+      "episodes": 291,
+      "status": "Finished Airing",
+      "synopsis": "Goku et ses compagnons défendent la Terre contre des ennemis toujours plus puissants venus de l'espace."
+    },
+    {
+      "id": 23,
+      "title_en": "Tokyo Ghoul",
+      "title_jp": "東京喰種",
+      "detail_url": "/anime/tokyo-ghoul.html",
+      "year": 2014,
+      "studio": "Studio Pierrot",
+      "score": null,
+      "genres": [
+        "Action",
+        "Horror",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Ken Kaneki devient à moitié goule après une transplantation d'organes et doit naviguer entre deux mondes."
+    },
+    {
+      "id": 24,
+      "title_en": "Parasyte",
+      "title_jp": "寄生獣",
+      "detail_url": "/anime/parasyte.html",
+      "year": 2014,
+      "studio": "Madhouse",
+      "score": 8.3,
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Des parasites venus de l'espace envahissent des humains, mais l'un d'eux échoue à prendre le contrôle de Shinichi."
+    },
+    {
+      "id": 25,
+      "title_en": "Made in Abyss",
+      "title_jp": "メイドインアビス",
+      "detail_url": "/anime/made-in-abyss.html",
+      "year": 2017,
+      "studio": "Kinema Citrus",
+      "score": 8.7,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Riko et son compagnon robot Reg descendent dans un immense gouffre mystérieux pour retrouver la mère de Riko."
+    },
+    {
+      "id": 26,
+      "title_en": "Re:Zero",
+      "title_jp": "Re:ゼロから始める異世界生活",
+      "detail_url": "/anime/rezero.html",
+      "year": 2016,
+      "studio": "White Fox",
+      "score": 8.2,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Thriller"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Subaru est transporté dans un autre monde et découvre qu'il peut revenir dans le temps à chaque fois qu'il meurt."
+    },
+    {
+      "id": 27,
+      "title_en": "Violet Evergarden",
+      "title_jp": "ヴァイオレット・エヴァーガーデン",
+      "detail_url": "/anime/violet-evergarden.html",
+      "year": 2018,
+      "studio": "Kyoto Animation",
+      "score": 8.7,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Violet, une ancienne enfant-soldat, apprend à comprendre les émotions humaines en devenant écrivaine de lettres."
+    },
+    {
+      "id": 28,
+      "title_en": "Clannad: After Story",
+      "title_jp": "クラナド アフターストーリー",
+      "detail_url": "/anime/clannad-after-story.html",
+      "year": 2008,
+      "studio": "Kyoto Animation",
+      "score": 8.9,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Tomoya et Nagisa entrent dans la vie adulte et font face aux défis du mariage, du travail et de la famille."
+    },
+    {
+      "id": 29,
+      "title_en": "Monster",
+      "title_jp": "モンスター",
+      "detail_url": "/anime/monster.html",
+      "year": 2004,
+      "studio": "Madhouse",
+      "score": 8.9,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
+      "type": "TV",
+      "episodes": 74,
+      "status": "Finished Airing",
+      "synopsis": "Le Dr Tenma sauve la vie d'un jeune garçon qui se révèle être un dangereux criminel, et part à sa recherche à travers l'Europe."
+    },
+    {
+      "id": 30,
+      "title_en": "Psycho-Pass",
+      "title_jp": "サイコパス",
+      "detail_url": "/anime/psycho-pass.html",
+      "year": 2012,
+      "studio": "Production I.G",
+      "score": 8.3,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "type": "TV",
+      "episodes": 22,
+      "status": "Finished Airing",
+      "synopsis": "Dans un futur où un système juge en temps réel le potentiel criminel de chacun, l'inspectrice Akane Tsunemori doute du système."
+    },
+    {
+      "id": 31,
+      "title_en": "Gintama",
+      "title_jp": "銀魂",
+      "detail_url": "/anime/gintama.html",
+      "year": 2006,
+      "studio": "Sunrise",
+      "score": 8.9,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Historical",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 201,
+      "status": "Finished Airing",
+      "synopsis": "Dans un Japon d'Edo envahi par des extraterrestres, Gintoki Sakata dirige une entreprise à tout faire."
+    },
+    {
+      "id": 32,
+      "title_en": "Haikyuu!!",
+      "title_jp": "ハイキュー!!",
+      "detail_url": "/anime/haikyuu.html",
+      "year": 2014,
+      "studio": "Production I.G",
+      "score": 8.5,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "School",
+        "Sports"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Hinata Shoyo rejoint le club de volley-ball du lycée Karasuno pour devenir le meilleur joueur malgré sa petite taille."
+    },
+    {
+      "id": 33,
+      "title_en": "Kaguya-sama: Love is War",
+      "title_jp": "かぐや様は告らせたい",
+      "detail_url": "/anime/kaguya-sama-love-is-war.html",
+      "year": 2019,
+      "studio": "A-1 Pictures",
+      "score": 8.4,
+      "genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "School"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Kaguya et Miyuki sont trop fiers pour avouer leurs sentiments et se livrent à une guerre psychologique pour faire confesser l'autre."
+    },
+    {
+      "id": 34,
+      "title_en": "The Promised Neverland",
+      "title_jp": "約束のネバーランド",
+      "detail_url": "/anime/the-promised-neverland.html",
+      "year": 2019,
+      "studio": "CloverWorks",
+      "score": 8.5,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Trois orphelins découvrent la terrible vérité sur leur orphelinat et planifient leur évasion."
+    },
+    {
+      "id": 35,
+      "title_en": "Dr. Stone",
+      "title_jp": "ドクターストーン",
+      "detail_url": "/anime/dr-stone.html",
+      "year": 2019,
+      "studio": "TMS Entertainment",
+      "score": 8.2,
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Shounen"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Après une pétrification mondiale, Senku se réveille 3700 ans plus tard et entreprend de reconstruire la civilisation avec la science."
+    },
+    {
+      "id": 36,
+      "title_en": "Chainsaw Man",
+      "title_jp": "チェンソーマン",
+      "detail_url": "/anime/chainsaw-man.html",
+      "year": 2022,
+      "studio": "MAPPA",
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Horror",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Denji fusionne avec son démon-chien et devient Chainsaw Man, un chasseur de démons travaillant pour une agence spéciale."
+    },
+    {
+      "id": 37,
+      "title_en": "Spy x Family",
+      "title_jp": "スパイファミリー",
+      "detail_url": "/anime/spy-x-family.html",
+      "year": 2022,
+      "studio": "Wit Studio",
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Un espion, une assassine et une télépathe forment une fausse famille pour chacun accomplir leur mission secrète."
+    },
+    {
+      "id": 38,
+      "title_en": "Cyberpunk: Edgerunners",
+      "title_jp": "サイバーパンク エッジランナーズ",
+      "detail_url": "/anime/cyberpunk-edgerunners.html",
+      "year": 2022,
+      "studio": "Studio Trigger",
+      "score": 8.6,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "type": "ONA",
+      "episodes": 10,
+      "status": "Finished Airing",
+      "synopsis": "David, un jeune de Night City, s'implante un prototype militaire illégal et rejoint une équipe de mercenaires."
+    },
+    {
+      "id": 39,
+      "title_en": "Bocchi the Rock!",
+      "title_jp": "ぼっち・ざ・ろっく!",
+      "detail_url": "/anime/bocchi-the-rock.html",
+      "year": 2022,
+      "studio": "CloverWorks",
+      "score": 8.8,
+      "genres": [
+        "Comedy",
+        "Music",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Bocchi, une adolescente extrêmement timide, rejoint un groupe de rock malgré sa peur des interactions sociales."
+    },
+    {
+      "id": 40,
+      "title_en": "Frieren: Beyond Journey's End",
+      "title_jp": "葬送のフリーレン",
+      "detail_url": "/anime/frieren-beyond-journeys-end.html",
+      "year": 2023,
+      "studio": "Madhouse",
+      "score": 9.3,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 28,
+      "status": "Finished Airing",
+      "synopsis": "Après avoir vaincu le Roi Démon, l'elfe Frieren reprend la route pour comprendre ce qu'elle a partagé avec ses compagnons mortels."
+    },
+    {
+      "id": 41,
+      "title_en": "Oshi no Ko",
+      "title_jp": "推しの子",
+      "detail_url": "/anime/oshi-no-ko.html",
+      "year": 2023,
+      "studio": "Doga Kobo",
+      "score": 8.7,
+      "genres": [
+        "Drama",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 11,
+      "status": "Finished Airing",
+      "synopsis": "Un médecin et une de ses patientes décédées renaissent comme les jumeaux d'une idole de J-pop."
+    },
+    {
+      "id": 42,
+      "title_en": "Jujutsu Kaisen Season 2",
+      "title_jp": "呪術廻戦 第2期",
+      "detail_url": "/anime/jujutsu-kaisen-season-2.html",
+      "year": 2023,
+      "studio": "MAPPA",
+      "score": 8.8,
+      "genres": [
+        "Action",
+        "School",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 23,
+      "status": "Finished Airing",
+      "synopsis": "La suite des aventures de Yuji Itadori avec l'arc Shibuya Incident."
+    },
+    {
+      "id": 43,
+      "title_en": "Mushishi",
+      "title_jp": "蟲師",
+      "detail_url": "/anime/mushishi.html",
+      "year": 2005,
+      "studio": "Artland",
+      "score": 8.7,
+      "genres": [
+        "Adventure",
+        "Historical",
+        "Mystery",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "Ginko parcourt le Japon rural pour aider ceux qui sont affectés par les Mushi, des créatures surnaturelles primitives."
+    },
+    {
+      "id": 44,
+      "title_en": "Ergo Proxy",
+      "title_jp": "エルゴプラクシー",
+      "detail_url": "/anime/ergo-proxy.html",
+      "year": 2006,
+      "studio": "Manglobe",
+      "score": 7.8,
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 23,
+      "status": "Finished Airing",
+      "synopsis": "Dans une ville-dôme futuriste, l'inspectrice Re-l Mayer enquête sur une série de meurtres liés à d'étranges créatures."
+    },
+    {
+      "id": 45,
+      "title_en": "Serial Experiments Lain",
+      "title_jp": "シリアルエクスペリメンツ レイン",
+      "detail_url": "/anime/serial-experiments-lain.html",
+      "year": 1998,
+      "studio": "Triangle Staff",
+      "score": 8.0,
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Lain, une adolescente timide, est entraînée dans les mystères du Wired, un réseau qui commence à fusionner avec la réalité."
+    },
+    {
+      "id": 46,
+      "title_en": "Ghost in the Shell: SAC",
+      "title_jp": "攻殻機動隊 STAND ALONE COMPLEX",
+      "detail_url": "/anime/ghost-in-the-shell-sac.html",
+      "year": 2002,
+      "studio": "Production I.G",
+      "score": 8.4,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "La Section 9 enquête sur des crimes cybernétiques dans un futur où l'humanité est partiellement cybernétisée."
+    },
+    {
+      "id": 47,
+      "title_en": "Trigun",
+      "title_jp": "トライガン",
+      "detail_url": "/anime/trigun.html",
+      "year": 1998,
+      "studio": "Madhouse",
+      "score": 8.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "Vash the Stampede, un hors-la-loi pacifiste avec une prime astronomique sur sa tête, erre dans un désert post-apocalyptique."
+    },
+    {
+      "id": 48,
+      "title_en": "Samurai Champloo",
+      "title_jp": "サムライチャンプルー",
+      "detail_url": "/anime/samurai-champloo.html",
+      "year": 2004,
+      "studio": null,
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Historical"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "Fuu entraîne deux samouraïs rivaux dans sa quête pour retrouver un mystérieux samouraï qui sent le tournesol."
+    },
+    {
+      "id": 49,
+      "title_en": "FLCL",
+      "title_jp": "フリクリ",
+      "detail_url": "/anime/flcl.html",
+      "year": 2000,
+      "studio": "Gainax",
+      "score": 7.8,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "type": "OVA",
+      "episodes": 6,
+      "status": "Finished Airing",
+      "synopsis": "La vie de Naota bascule quand Haruko, une extraterrestre au scooter, le percute et libère un robot de son front."
+    },
+    {
+      "id": 50,
+      "title_en": "Nichijou",
+      "title_jp": "日常",
+      "detail_url": "/anime/nichijou.html",
+      "year": 2011,
+      "studio": "Kyoto Animation",
+      "score": 8.5,
+      "genres": [
+        "Comedy",
+        "School",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "synopsis": "La vie quotidienne absurde de trois lycéennes et d'une fillette-robot dans une petite ville japonaise."
+    },
+    {
+      "id": 51,
+      "title_en": "K-On!",
+      "title_jp": "けいおん!",
+      "detail_url": "/anime/k-on.html",
+      "year": 2009,
+      "studio": "Kyoto Animation",
+      "score": null,
+      "genres": [
+        "Comedy",
+        "Music",
+        "School",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Quatre lycéennes forment un groupe de rock pour sauver le club de musique légère de leur école."
+    },
+    {
+      "id": 52,
+      "title_en": "The Melancholy of Haruhi Suzumiya",
+      "title_jp": "涼宮ハルヒの憂鬱",
+      "detail_url": "/anime/the-melancholy-of-haruhi-suzumiya.html",
+      "year": 2006,
+      "studio": "Kyoto Animation",
+      "score": 7.8,
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "School",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 14,
+      "status": "Finished Airing",
+      "synopsis": "Kyon rejoint malgré lui la brigade SOS d'Haruhi Suzumiya, qui cherche des extraterrestres, voyageurs temporels et espers."
+    },
+    {
+      "id": 53,
+      "title_en": "Lucky Star",
+      "title_jp": "らき☆すた",
+      "detail_url": "/anime/lucky-star.html",
+      "year": 2007,
+      "studio": "Kyoto Animation",
+      "score": 7.7,
+      "genres": [
+        "Comedy",
+        "School",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Konata et ses amies lycéennes passent leurs journées à discuter d'otakeries et de sujets triviaux."
+    },
+    {
+      "id": 54,
+      "title_en": "Toradora!",
+      "title_jp": "とらドラ!",
+      "detail_url": "/anime/toradora.html",
+      "year": 2008,
+      "studio": "J.C.Staff",
+      "score": 8.1,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Ryuji et Taiga, deux lycéens mal compris, s'allient pour aider chacun à conquérir le béguin de l'autre."
+    },
+    {
+      "id": 55,
+      "title_en": "Clannad",
+      "title_jp": "クラナド",
+      "detail_url": "/anime/clannad.html",
+      "year": 2007,
+      "studio": "Kyoto Animation",
+      "score": 8.0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School"
+      ],
+      "type": "TV",
+      "episodes": 23,
+      "status": "Finished Airing",
+      "synopsis": "Tomoya, un lycéen désabusé, rencontre Nagisa et commence à s'impliquer dans la vie des filles qui l'entourent."
+    },
+    {
+      "id": 56,
+      "title_en": "Angel Beats!",
+      "title_jp": "エンジェルビーツ!",
+      "detail_url": "/anime/angel-beats.html",
+      "year": 2010,
+      "studio": "P.A. Works",
+      "score": 8.1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "School",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Otonashi se réveille dans un purgatoire lycéen où des élèves luttent contre Dieu pour ne pas disparaître."
+    },
+    {
+      "id": 57,
+      "title_en": "Anohana",
+      "title_jp": "あの日見た花の名前を僕達はまだ知らない",
+      "detail_url": "/anime/anohana.html",
+      "year": 2011,
+      "studio": "A-1 Pictures",
+      "score": 8.3,
+      "genres": [
+        "Drama",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 11,
+      "status": "Finished Airing",
+      "synopsis": "Jinta voit un jour le fantôme de son amie d'enfance Menma, qui lui demande de réaliser son souhait pour qu'elle puisse reposer en paix."
+    },
+    {
+      "id": 58,
+      "title_en": "A Silent Voice",
+      "title_jp": "聲の形",
+      "detail_url": "/anime/a-silent-voice.html",
+      "year": 2016,
+      "studio": "Kyoto Animation",
+      "score": 8.9,
+      "genres": [
+        "Drama",
+        "Romance",
+        "School"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Shoya cherche à se racheter auprès de Shoko, une camarade de classe sourde qu'il avait persécutée en primaire."
+    },
+    {
+      "id": 59,
+      "title_en": "Weathering with You",
+      "title_jp": "天気の子",
+      "detail_url": "/anime/weathering-with-you.html",
+      "year": 2019,
+      "studio": "CoMix Wave Films",
+      "score": 8.1,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Dans un Tokyo noyé sous la pluie, un adolescent rencontre une jeune fille capable de contrôler la météo."
+    },
+    {
+      "id": 60,
+      "title_en": "Howl's Moving Castle",
+      "title_jp": "ハウルの動く城",
+      "detail_url": "/anime/howls-moving-castle.html",
+      "year": 2004,
+      "studio": "Studio Ghibli",
+      "score": 8.7,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Sophie, transformée en vieille femme par une sorcière, cherche refuge dans le château magique de Howl."
+    },
+    {
+      "id": 61,
+      "title_en": "My Neighbor Totoro",
+      "title_jp": "となりのトトロ",
+      "detail_url": "/anime/my-neighbor-totoro.html",
+      "year": 1988,
+      "studio": "Studio Ghibli",
+      "score": 8.3,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Deux sœurs emménagent à la campagne et découvrent les créatures magiques de la forêt voisine, dont le grand Totoro."
+    },
+    {
+      "id": 62,
+      "title_en": "Castle in the Sky",
+      "title_jp": "天空の城ラピュタ",
+      "detail_url": "/anime/castle-in-the-sky.html",
+      "year": 1986,
+      "studio": "Studio Ghibli",
+      "score": 8.2,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Pazu et Sheeta cherchent Laputa, une cité mythique flottant dans les nuages, poursuivis par pirates et militaires."
+    },
+    {
+      "id": 63,
+      "title_en": "Nausicaä of the Valley of the Wind",
+      "title_jp": "風の谷のナウシカ",
+      "detail_url": "/anime/nausica-of-the-valley-of-the-wind.html",
+      "year": 1984,
+      "studio": "Topcraft",
+      "score": 8.4,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Dans un monde post-apocalyptique, la princesse Nausicaä cherche à préserver la paix entre humains et nature."
+    },
+    {
+      "id": 64,
+      "title_en": "Grave of the Fireflies",
+      "title_jp": "火垂るの墓",
+      "detail_url": "/anime/grave-of-the-fireflies.html",
+      "year": 1988,
+      "studio": "Studio Ghibli",
+      "score": 8.5,
+      "genres": [
+        "Drama",
+        "Historical"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Seita et Setsuko, deux enfants orphelins, tentent de survivre dans le Japon dévasté par la Seconde Guerre mondiale."
+    },
+    {
+      "id": 65,
+      "title_en": "Akira",
+      "title_jp": "アキラ",
+      "detail_url": "/anime/akira.html",
+      "year": 1988,
+      "studio": "Tokyo Movie Shinsha",
+      "score": 8.1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Dans un Neo-Tokyo dystopique, Kaneda tente de sauver son ami Tetsuo dont les pouvoirs psychiques deviennent incontrôlables."
+    },
+    {
+      "id": 66,
+      "title_en": "Ghost in the Shell (1995)",
+      "title_jp": "攻殻機動隊",
+      "detail_url": "/anime/ghost-in-the-shell-1995.html",
+      "year": 1995,
+      "studio": "Production I.G",
+      "score": 8.3,
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "La major Motoko Kusanagi traque un hacker insaisissable appelé le Marionnettiste."
+    },
+    {
+      "id": 67,
+      "title_en": "Perfect Blue",
+      "title_jp": "パーフェクトブルー",
+      "detail_url": "/anime/perfect-blue.html",
+      "year": 1997,
+      "studio": "Madhouse",
+      "score": 8.4,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Thriller"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Mima, une idole reconvertie en actrice, est harcelée par un fan et commence à perdre pied avec la réalité."
+    },
+    {
+      "id": 68,
+      "title_en": "Paprika",
+      "title_jp": "パプリカ",
+      "detail_url": "/anime/paprika.html",
+      "year": 2006,
+      "studio": "Madhouse",
+      "score": 8.0,
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Le Dr Atsuko Chiba utilise un appareil qui permet d'entrer dans les rêves des patients, jusqu'à ce qu'il soit volé."
+    },
+    {
+      "id": 69,
+      "title_en": "Millennium Actress",
+      "title_jp": "千年女優",
+      "detail_url": "/anime/millennium-actress.html",
+      "year": 2001,
+      "studio": "Madhouse",
+      "score": 8.2,
+      "genres": [
+        "Drama",
+        "Historical",
+        "Romance"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Une actrice à la retraite raconte sa vie et se retrouve à revivre ses films et ses amours passées."
+    },
+    {
+      "id": 70,
+      "title_en": "Tokyo Godfathers",
+      "title_jp": "東京ゴッドファーザーズ",
+      "detail_url": "/anime/tokyo-godfathers.html",
+      "year": 2003,
+      "studio": "Madhouse",
+      "score": 8.3,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Trois sans-abri trouvent un bébé abandonné la veille de Noël à Tokyo et cherchent ses parents."
+    },
+    {
+      "id": 71,
+      "title_en": "Redline",
+      "title_jp": "REDLINE",
+      "detail_url": "/anime/redline.html",
+      "year": 2010,
+      "studio": "Madhouse",
+      "score": 8.1,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Sports"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "JP participe à la course galactique la plus dangereuse et illégale de l'univers : la Redline."
+    },
+    {
+      "id": 72,
+      "title_en": "Summer Wars",
+      "title_jp": "サマーウォーズ",
+      "detail_url": "/anime/summer-wars.html",
+      "year": 2009,
+      "studio": "Madhouse",
+      "score": 7.9,
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Kenji est entraîné dans une cyberguerre qui menace le monde réel depuis un réseau social planétaire."
+    },
+    {
+      "id": 73,
+      "title_en": "The Girl Who Leapt Through Time",
+      "title_jp": "時をかける少女",
+      "detail_url": "/anime/the-girl-who-leapt-through-time.html",
+      "year": 2006,
+      "studio": "Madhouse",
+      "score": 8.1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Makoto découvre qu'elle peut sauter dans le temps, mais chaque voyage a des conséquences qu'elle ne maîtrise pas."
+    },
+    {
+      "id": 74,
+      "title_en": "Wolf Children",
+      "title_jp": "おおかみこどもの雨と雪",
+      "detail_url": "/anime/wolf-children.html",
+      "year": 2012,
+      "studio": "Studio Chizu",
+      "score": 8.2,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "Hana élève seule ses deux enfants mi-humains mi-loups après la mort de leur père."
+    },
+    {
+      "id": 75,
+      "title_en": "A Place Further than the Universe",
+      "title_jp": "宇宙よりも遠い場所",
+      "detail_url": "/anime/a-place-further-than-the-universe.html",
+      "year": 2018,
+      "studio": "Madhouse",
+      "score": 8.5,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Quatre lycéennes embarquent pour une expédition en Antarctique, chacune cherchant à accomplir un rêve personnel."
+    },
+    {
+      "id": 76,
+      "title_en": "March Comes in Like a Lion",
+      "title_jp": "3月のライオン",
+      "detail_url": "/anime/march-comes-in-like-a-lion.html",
+      "year": 2016,
+      "studio": "Shaft",
+      "score": 8.4,
+      "genres": [
+        "Drama",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 22,
+      "status": "Finished Airing",
+      "synopsis": "Rei Kiriyama, jeune joueur professionnel de shogi, lutte contre la solitude et la dépression avec l'aide de trois sœurs."
+    },
+    {
+      "id": 77,
+      "title_en": "Beastars",
+      "title_jp": "ビースターズ",
+      "detail_url": "/anime/beastars.html",
+      "year": 2019,
+      "studio": "Orange",
+      "score": 7.8,
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Slice of Life"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Dans un monde peuplé d'animaux anthropomorphes, le loup Legosi lutte contre ses instincts carnivores au lycée."
+    },
+    {
+      "id": 78,
+      "title_en": "Dorohedoro",
+      "title_jp": "ドロヘドロ",
+      "detail_url": "/anime/dorohedoro.html",
+      "year": 2020,
+      "studio": "MAPPA",
+      "score": 8.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Caiman, un homme à tête de lézard, cherche le sorcier qui l'a transformé dans le quartier des magiciens."
+    },
+    {
+      "id": 79,
+      "title_en": "Durarara!!",
+      "title_jp": "デュラララ!!",
+      "detail_url": "/anime/durarara.html",
+      "year": 2010,
+      "studio": "Brain's Base",
+      "score": 8.2,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "À Ikebukuro, des gangs, une motarde sans tête et un informateur manipulateur tissent une toile complexe."
+    },
+    {
+      "id": 80,
+      "title_en": "Baccano!",
+      "title_jp": "バッカーノ!",
+      "detail_url": "/anime/baccano.html",
+      "year": 2007,
+      "studio": "Brain's Base",
+      "score": 8.4,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Historical",
+        "Mystery"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Dans les années 1930, différentes histoires impliquant mafieux, alchimistes immortels et voleurs s'entrecroisent."
+    },
+    {
+      "id": 81,
+      "title_en": "91 Days",
+      "title_jp": "91デイズ",
+      "detail_url": "/anime/91-days.html",
+      "year": 2016,
+      "studio": "Shuka",
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Historical"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Pendant la Prohibition, Avilio revient dans sa ville natale pour se venger de la famille mafieuse qui a tué sa famille."
+    },
+    {
+      "id": 82,
+      "title_en": "Black Lagoon",
+      "title_jp": "ブラック・ラグーン",
+      "detail_url": "/anime/black-lagoon.html",
+      "year": 2006,
+      "studio": null,
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Seinen"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Rock, un salaryman japonais, est kidnappé par des pirates et finit par rejoindre leur équipage de contrebandiers."
+    },
+    {
+      "id": 83,
+      "title_en": "Berserk (1997)",
+      "title_jp": "剣風伝奇ベルセルク",
+      "detail_url": "/anime/berserk-1997.html",
+      "year": 1997,
+      "studio": "OLM",
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Guts, un mercenaire au passé tragique, rejoint la bande de mercenaires du charismatique Griffith."
+    },
+    {
+      "id": 84,
+      "title_en": "Berserk: The Golden Age Arc",
+      "title_jp": "ベルセルク 黄金時代篇",
+      "detail_url": "/anime/berserk-the-golden-age-arc.html",
+      "year": 2012,
+      "studio": "Studio 4°C",
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "synopsis": "L'adaptation cinématographique de l'arc de l'Âge d'Or du manga Berserk."
+    },
+    {
+      "id": 85,
+      "title_en": "Durarara!!x2",
+      "title_jp": "デュラララ!!×2",
+      "detail_url": "/anime/durararax2.html",
+      "year": 2015,
+      "studio": "Shuka",
+      "score": 7.8,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Les évènements mystérieux à Ikebukuro continuent avec de nouveaux personnages et intrigues."
+    },
+    {
+      "id": 86,
+      "title_en": "Akame ga Kill!",
+      "title_jp": "アカメが斬る!",
+      "detail_url": "/anime/akame-ga-kill.html",
+      "year": 2014,
+      "studio": "White Fox",
+      "score": 7.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Tatsumi rejoint Night Raid, un groupe d'assassins qui lutte contre un empire corrompu."
+    },
+    {
+      "id": 87,
+      "title_en": "No Game No Life",
+      "title_jp": "ノーゲーム・ノーライフ",
+      "detail_url": "/anime/no-game-no-life.html",
+      "year": 2014,
+      "studio": "Madhouse",
+      "score": 8.0,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Sora et Shiro, deux frères et sœurs génies du jeu, sont transportés dans un monde où tout se décide par des jeux."
+    },
+    {
+      "id": 88,
+      "title_en": "Konosuba",
+      "title_jp": "この素晴らしい世界に祝福を!",
+      "detail_url": "/anime/konosuba.html",
+      "year": 2016,
+      "studio": "Studio Deen",
+      "score": 8.1,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 10,
+      "status": "Finished Airing",
+      "synopsis": "Kazuma est réincarné dans un monde de fantasy avec une déesse inutile, une magicienne explosive et une croisée masochiste."
+    },
+    {
+      "id": 89,
+      "title_en": "Overlord",
+      "title_jp": "オーバーロード",
+      "detail_url": "/anime/overlord.html",
+      "year": 2015,
+      "studio": "Madhouse",
+      "score": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Momonga reste connecté à un MMO lors de sa fermeture et se retrouve transporté dans un monde virtuel devenu réel."
+    },
+    {
+      "id": 90,
+      "title_en": "Sword Art Online",
+      "title_jp": "ソードアート・オンライン",
+      "detail_url": "/anime/sword-art-online.html",
+      "year": 2012,
+      "studio": "A-1 Pictures",
+      "score": 7.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Game",
+        "Romance"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "10 000 joueurs sont piégés dans un MMO de réalité virtuelle où mourir dans le jeu signifie mourir dans la vraie vie."
+    },
+    {
+      "id": 91,
+      "title_en": "Log Horizon",
+      "title_jp": "ログ・ホライズン",
+      "detail_url": "/anime/log-horizon.html",
+      "year": 2013,
+      "studio": "Satelight",
+      "score": 7.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Game"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Lorsqu'une mise à jour piège les joueurs dans un MMO, Shiroe s'efforce d'y bâtir une nouvelle société."
+    },
+    {
+      "id": 92,
+      "title_en": "The Rising of the Shield Hero",
+      "title_jp": "盾の勇者の成り上がり",
+      "detail_url": "/anime/the-rising-of-the-shield-hero.html",
+      "year": 2019,
+      "studio": "Kinema Citrus",
+      "score": 7.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "synopsis": "Naofumi est invoqué comme Héros du Bouclier dans un autre monde, trahi et humilié, il doit prouver sa valeur."
+    },
+    {
+      "id": 93,
+      "title_en": "Goblin Slayer",
+      "title_jp": "ゴブリンスレイヤー",
+      "detail_url": "/anime/goblin-slayer.html",
+      "year": 2018,
+      "studio": "White Fox",
+      "score": 7.4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Un aventurier obsédé par l'extermination des gobelins refuse toutes les autres quêtes."
+    },
+    {
+      "id": 94,
+      "title_en": "That Time I Got Reincarnated as a Slime",
+      "title_jp": "転生したらスライムだった件",
+      "detail_url": "/anime/that-time-i-got-reincarnated-as-a-slime.html",
+      "year": 2018,
+      "studio": "Eight Bit",
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Un salaryman japonais meurt et se réincarne en slime dans un monde fantastique qu'il va transformer."
+    },
+    {
+      "id": 95,
+      "title_en": "Mushoku Tensei",
+      "title_jp": "無職転生 ～異世界行ったら本気だす～",
+      "detail_url": "/anime/mushoku-tensei.html",
+      "year": 2021,
+      "studio": "Studio Bind",
+      "score": 8.4,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 11,
+      "status": "Finished Airing",
+      "synopsis": "Un NEET de 34 ans meurt et se réincarne en bébé dans un monde de magie, déterminé à vivre pleinement cette fois-ci."
+    },
+    {
+      "id": 96,
+      "title_en": "86",
+      "title_jp": "エイティシックス",
+      "detail_url": "/anime/86.html",
+      "year": 2021,
+      "studio": "A-1 Pictures",
+      "score": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "type": "TV",
+      "episodes": 11,
+      "status": "Finished Airing",
+      "synopsis": "Dans une république en guerre, des soldats officiellement 'sans race' combattent dans des mechas commandés à distance."
+    },
+    {
+      "id": 97,
+      "title_en": "Odd Taxi",
+      "title_jp": "オッドタクシー",
+      "detail_url": "/anime/odd-taxi.html",
+      "year": 2021,
+      "studio": "OLM",
+      "score": 8.5,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Un chauffeur de taxi morse introverti se retrouve au cœur d'une affaire de disparition à Tokyo."
+    },
+    {
+      "id": 98,
+      "title_en": "Ranking of Kings",
+      "title_jp": "王様ランキング",
+      "detail_url": "/anime/ranking-of-kings.html",
+      "year": 2021,
+      "studio": "Wit Studio",
+      "score": 8.5,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 23,
+      "status": "Finished Airing",
+      "synopsis": "Bojji, un jeune prince sourd et sans force, rêve de devenir le plus grand roi du monde."
+    },
+    {
+      "id": 99,
+      "title_en": "Sonny Boy",
+      "title_jp": "サニーボーイ",
+      "detail_url": "/anime/sonny-boy.html",
+      "year": 2021,
+      "studio": "Madhouse",
+      "score": 7.7,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "Un groupe de lycéens se retrouve piégé dans une dimension parallèle à la dérive entre les mondes."
+    },
+    {
+      "id": 100,
+      "title_en": "Lycoris Recoil",
+      "title_jp": "リコリス・リコイル",
+      "detail_url": "/anime/lycoris-recoil.html",
+      "year": 2022,
+      "studio": "A-1 Pictures",
+      "score": 8.2,
+      "genres": [
+        "Action"
+      ],
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "synopsis": "Deux adolescentes tueuses à gages travaillent dans un café qui sert de couverture à une organisation secrète."
+    },
+    {
+      "id": 101,
+      "title_en": "Blue Lock",
+      "title_jp": "ブルーロック",
+      "detail_url": "/anime/blue-lock.html",
+      "year": 2022,
+      "studio": "Eight Bit",
+      "score": 7.8,
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Pour créer le meilleur attaquant du monde, 300 jeunes footballeurs sont enfermés dans un centre d'entraînement impitoyable."
+    },
+    {
+      "id": 102,
+      "title_en": "Mushoku Tensei Season 2",
+      "title_jp": "無職転生 II",
+      "detail_url": "/anime/mushoku-tensei-season-2.html",
+      "year": 2023,
+      "studio": "Studio Bind",
+      "score": 8.2,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "synopsis": "La suite des aventures de Rudeus dans le monde de magie."
+    },
+    {
+      "id": 103,
+      "title_en": "Undead Unluck",
+      "title_jp": "アンデッドアンラック",
+      "detail_url": "/anime/undead-unluck.html",
+      "year": 2023,
+      "studio": "David Production",
+      "score": 8.0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Supernatural"
+      ],
+      "type": "TV",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "synopsis": "Fuuko, une jeune femme porteuse d'une malédiction qui tue ceux qu'elle touche, rencontre Andy, un immortel qui cherche à mourir."
+    }
+  ],
+  "news": [
+    {
+      "title": "Les animes les plus attendus du printemps 2026",
+      "url": "/news/les-animes-les-plus-attendus-du-printemps-2026.html",
+      "category": "Saisonnier",
+      "published_at": "2026-04-01",
+      "body": null
+    },
+    {
+      "title": "Studio Ghibli annonce un nouveau long-métrage",
+      "url": "/news/studio-ghibli-annonce-un-nouveau-long-mtrage.html",
+      "category": "Industrie",
+      "published_at": "2026-03-28",
+      "body": null
+    },
+    {
+      "title": "Frieren saison 2 : première bande-annonce dévoilée",
+      "url": "/news/frieren-saison-2-premire-bande-annonce-dvoile.html",
+      "category": "Nouveauté",
+      "published_at": "2026-03-25",
+      "body": null
+    },
+    {
+      "title": "Bilan des audiences de la saison hiver 2026",
+      "url": "/news/bilan-des-audiences-de-la-saison-hiver-2026.html",
+      "category": "Analyse",
+      "published_at": "2026-03-20",
+      "body": null
+    },
+    {
+      "title": "Chainsaw Man : le film confirme sa date de sortie",
+      "url": "/news/chainsaw-man-le-film-confirme-sa-date-de-sortie.html",
+      "category": "Industrie",
+      "published_at": "2026-03-15",
+      "body": null
+    },
+    {
+      "title": "Le marché de l'anime dépasse les 3 mille milliards de yens",
+      "url": "/news/le-march-de-lanime-dpasse-les-3-mille-milliards-de-yens.html",
+      "category": "Industrie",
+      "published_at": "2026-03-10",
+      "body": null
+    },
+    {
+      "title": "Jujutsu Kaisen : le manga se termine, quid de l'anime ?",
+      "url": "/news/jujutsu-kaisen-le-manga-se-termine-quid-de-lanime.html",
+      "category": "Actualité",
+      "published_at": "2026-03-05",
+      "body": null
+    },
+    {
+      "title": "Netflix renforce son catalogue anime pour 2026",
+      "url": "/news/netflix-renforce-son-catalogue-anime-pour-2026.html",
+      "category": "Industrie",
+      "published_at": "2026-02-28",
+      "body": null
+    }
+  ]
+}

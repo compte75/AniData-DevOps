@@ -82,3 +82,4 @@ with DAG(
     )
 
     get_file >> index_task
+    logger.info(f"🎌 Indexation de {len(animes)} animes dans ES...")
