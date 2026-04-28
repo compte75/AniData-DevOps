@@ -9,6 +9,7 @@ from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 sys.path.append("/opt/airflow")
 logger = logging.getLogger(__name__)
 
+
 def run_scraper(**context):
     from anidata_scraper import scrape_to_file
     output_path = scrape_to_file(
@@ -17,6 +18,7 @@ def run_scraper(**context):
     )
     logger.info("Scraping terminé → %s", output_path)
     return output_path
+
 
 with DAG(
     dag_id="scraper_dag",
@@ -33,7 +35,7 @@ with DAG(
 
     trigger_etl = TriggerDagRunOperator(
         task_id="trigger_etl_dag",
-        trigger_dag_id="dag_verification",
+        trigger_dag_id="etl_dag",
         wait_for_completion=False,
     )
 
