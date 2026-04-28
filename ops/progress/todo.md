@@ -1,0 +1,4 @@
+- [x] Vérifier la structure de workspace actuelle
+- [x] Déplacer `airflow` dans `AniData-DevOps`
+- [x] Confirmer le succès du déplacement
+- [ ] Vérifier si le dépôt `anidata-scraper` doit être consolidé ou supprimé ailleurs
